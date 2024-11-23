@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.task-heading{
+  font-size:28px;
+  color: black;
+  font-family: "Roboto";
+  font-weight: 800;
+}
